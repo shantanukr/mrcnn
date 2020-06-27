@@ -28,7 +28,7 @@ pip install q keras==2.1.0
 
 pip install -r requirements.txt
 
-Run setup from the repository root directory
+step 6 Run setup from the repository root directory
 
 python setup.py install
 

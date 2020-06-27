@@ -34,7 +34,7 @@ Run setup from the repository root directory
 python setup.py install
 
 * if you donot have jupyter notebook install in your enviornment use this command
-pip install notebook
+  pip install notebook
 
 step 6 open jupyter notebook using command
 jupyter notebook

@@ -4,7 +4,7 @@ Basic system reqirement
 1. windows os
 2. nvidia gpu
 3. installation of CUDA
-4. installation od CUDAnn
+4. installation of CUDAnn
 5. Anaconda
 6. python 3
 

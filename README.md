@@ -8,7 +8,7 @@ Basic system reqirement
 5. Anaconda
 6. python 3
 
-step 1 clone the above repository and extract it into your local system and open cmd in that directory
+step 1 clone the above repository and extract it into your local system and also extract the dataset folder and place it into project directory and open cmd in that directory
 
 step 2 download the pre trained coco weight from the given link below.
 https://github.com/matterport/Mask_RCNN/releases
